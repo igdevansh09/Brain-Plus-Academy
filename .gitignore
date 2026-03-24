@@ -1,0 +1,47 @@
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native / sensitive files
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+
+# env files
+.env
+
+# TypeScript
+*.tsbuildinfo
+
+# generated native folders
+ios/
+android/
+
+# Firebase / secrets
+functions/service-account.json
+
+#Google services file downloaded from firebase
+google-services.json
+
+# misc
+app-example/

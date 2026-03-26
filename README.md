@@ -18,8 +18,11 @@ This project demonstrates end-to-end full-stack development, including secure au
 
 * * * * *
 
-🚀 Live App & Test Accounts
----------------------------
+🚀 Live Demo, App & Test Accounts
+--------------------------------
+
+🎥 **Watch Demo (Recommended First):**  
+👉 https://youtu.be/4EBRw99I4TM?si=wFNR0Y0KxvYsU2ia  
 
 <a href="https://play.google.com/store/apps/details?id=com.brainplus.academy" target="_blank">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" 
